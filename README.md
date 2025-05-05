@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sukhananddudhamal
 - 👀 I’m interested in ...Java, javascript,C,C++,Python,Oracle,MySQL,PHP,HTML,CSS and Webtechnology
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...A talented person is always a student and Learner
 - 💞️ I’m looking to collaborate on ...Java Applications, Oracle Projects, Website Development and masintenance etc.
 - 📫 How to reach me ...You can send msg in my inbox or can send detiled email
 - 😄 Pronouns: ...
